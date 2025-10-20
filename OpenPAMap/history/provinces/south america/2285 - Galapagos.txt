@@ -1,0 +1,21 @@
+owner = ECU
+controller = ECU
+add_core = ECU
+add_core = GCO
+trade_goods = fish
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = fish
+		max_employment = 29120
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 160
+	}
+}

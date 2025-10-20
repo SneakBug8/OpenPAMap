@@ -1,0 +1,45 @@
+owner = XIN
+controller = XIN
+add_core = CHI
+add_core = XIN
+trade_goods = cotton
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 2321810
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 2101820
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 1399540
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 386800
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 302470
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1005330
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 12720
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 22120
+	}
+}

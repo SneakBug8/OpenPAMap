@@ -1,0 +1,36 @@
+owner = BRU
+controller = BRU
+add_core = BRU
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 839180
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 1393340
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 2839720
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1609050
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 1696510
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 829570
+	}
+}

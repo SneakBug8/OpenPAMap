@@ -1,0 +1,45 @@
+owner = TRN
+controller = TRN
+add_core = TRN
+add_core = SAF
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 370100
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 170560
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 74970
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 724420
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 384380
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 587900
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 287860
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 86700
+	}
+}

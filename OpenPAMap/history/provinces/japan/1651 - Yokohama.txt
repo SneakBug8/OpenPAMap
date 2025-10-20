@@ -1,0 +1,56 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 660
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 8060
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 48040
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 63980
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 7200
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 9120
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 46540
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 31810
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 42050
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 2780
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 64100
+	}
+}

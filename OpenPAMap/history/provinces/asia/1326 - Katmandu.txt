@@ -1,0 +1,48 @@
+owner = NEP
+controller = NEP
+add_core = NEP
+trade_goods = tea
+colonial = 0
+colony = 0
+life_rating = 25
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 94200
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 1648680
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 468860
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1710940
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 766880
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 4285710
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 59780
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 788970
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 1113380
+	}
+}

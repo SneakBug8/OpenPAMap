@@ -1,0 +1,28 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 207570
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 100670
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 4493680
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 287190
+	}
+}

@@ -1,0 +1,57 @@
+owner = USA
+controller = USA
+add_core = USA
+add_core = NEN
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 65620
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 430290
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 23660
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 166980
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 324010
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 836270
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1406570
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 2422770
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1257770
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 40540
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 3110
+	}
+}

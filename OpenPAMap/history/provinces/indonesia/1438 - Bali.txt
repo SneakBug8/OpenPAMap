@@ -1,0 +1,44 @@
+owner = BAL
+controller = BAL
+add_core = BAL
+trade_goods = fish
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 47120
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 46880
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 211980
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 187090
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 251040
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 55690
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 143130
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 86430
+	}
+}

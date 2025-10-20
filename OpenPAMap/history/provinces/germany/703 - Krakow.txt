@@ -1,0 +1,42 @@
+owner = KRA
+controller = KRA
+add_core = KRA
+add_core = POL
+add_core = PLC
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = iron
+		max_employment = 10900
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 70500
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 250
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 199180
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 54300
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 303980
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 70100
+	}
+}

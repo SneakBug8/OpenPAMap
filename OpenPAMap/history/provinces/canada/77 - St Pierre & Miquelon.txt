@@ -1,0 +1,15 @@
+owner = FRA
+controller = FRA
+trade_goods = fish
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = fish
+		max_employment = 27810
+	}
+}

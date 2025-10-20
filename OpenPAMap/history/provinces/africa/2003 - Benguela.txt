@@ -1,0 +1,35 @@
+owner = POR
+controller = POR
+trade_goods = grain
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 9270
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 274010
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 28520
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 449490
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 152870
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 106640
+	}
+}

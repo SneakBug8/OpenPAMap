@@ -1,0 +1,60 @@
+owner = ENG
+controller = ENG
+add_core = AST
+trade_goods = grain
+colonial = 2
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 246660
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 281650
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 1492620
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 1126750
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 815620
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 880390
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2478880
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 633590
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 776350
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 179060
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 202400
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 519190
+	}
+}

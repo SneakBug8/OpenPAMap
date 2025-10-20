@@ -1,0 +1,56 @@
+owner = ENG
+controller = ENG
+add_core = HND
+trade_goods = tea
+colonial = 2
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 53110
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 70820
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 245470
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 384010
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 2026820
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 34580
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 123840
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 59940
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 94490
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 86140
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1490
+	}
+}

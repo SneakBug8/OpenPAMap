@@ -1,0 +1,57 @@
+owner = BAV
+controller = BAV
+add_core = BAV
+add_core = GER
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 52770
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 206120
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 423790
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 152150
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 31560
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 778300
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 519740
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 814970
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 67120
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 10710
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 24990
+	}
+}

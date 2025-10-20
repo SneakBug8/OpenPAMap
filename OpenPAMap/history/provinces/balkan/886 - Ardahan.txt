@@ -1,0 +1,41 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = ARM
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 154000
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 147250
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 734250
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 454140
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 64820
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 26940
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 972470
+	}
+}

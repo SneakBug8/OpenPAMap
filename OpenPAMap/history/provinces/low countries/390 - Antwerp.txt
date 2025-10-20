@@ -1,0 +1,62 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+add_core = NET
+add_core = FLA
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 1
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 23140
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 294230
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 135730
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 61200
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 374960
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 200890
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 287590
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 377220
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 11380
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 11030
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 6500
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 740
+	}
+}

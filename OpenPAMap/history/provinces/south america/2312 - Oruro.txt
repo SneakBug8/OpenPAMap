@@ -1,0 +1,52 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+trade_goods = iron
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = iron
+		max_employment = 326150
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 586490
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 903350
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 2224340
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 802750
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 348170
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 1340210
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 64660
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 138580
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 31960
+	}
+}

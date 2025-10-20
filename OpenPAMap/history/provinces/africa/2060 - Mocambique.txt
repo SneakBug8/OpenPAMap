@@ -1,0 +1,23 @@
+owner = POR
+controller = POR
+trade_goods = cotton
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 1
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 51160
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 103650
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 19270
+	}
+}

@@ -1,0 +1,18 @@
+add_core = CAN
+trade_goods = fish
+colonial = 0
+colony = 0
+life_rating = 20
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 1679040
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 99220
+	}
+}

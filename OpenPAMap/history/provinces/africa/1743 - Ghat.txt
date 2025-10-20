@@ -1,0 +1,16 @@
+owner = TRI
+controller = TRI
+add_core = TRI
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 25
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = opium
+		max_employment = 14610
+	}
+}

@@ -1,0 +1,36 @@
+owner = KOK
+controller = KOK
+add_core = KOK
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 2045840
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 2601060
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 34310
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 242080
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 126940
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1560
+	}
+}

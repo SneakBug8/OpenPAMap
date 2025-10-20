@@ -1,0 +1,71 @@
+owner = USA
+controller = USA
+add_core = USA
+add_core = MAN
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 50
+naval_base = 0
+railroad = 1
+fort = 1
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 25130
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 60230
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 7930
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 12310
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 27780
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 46510
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 284450
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 225580
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 340890
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 363670
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 10920
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 272360
+	}
+}

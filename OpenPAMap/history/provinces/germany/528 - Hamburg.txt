@@ -1,0 +1,57 @@
+owner = HAM
+controller = HAM
+add_core = HAM
+add_core = GER
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 1
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 10300
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 14160
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 16630
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 8130
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 168820
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 87170
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 31610
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 138070
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 2850
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 4560
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 830
+	}
+}

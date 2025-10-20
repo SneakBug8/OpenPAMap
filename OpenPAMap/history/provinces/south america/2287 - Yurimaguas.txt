@@ -1,0 +1,70 @@
+owner = ECU
+controller = ECU
+add_core = ECU
+add_core = PEU
+add_core = GCO
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 270160
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 614810
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 125760
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 666370
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 58600
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 254050
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 2899210
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 734300
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 214650
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 390800
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 727230
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 32640
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 500210
+	}
+	entry = {
+		trade_good = rubber
+		max_employment = 230
+	}
+}

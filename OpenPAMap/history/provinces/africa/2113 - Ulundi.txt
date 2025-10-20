@@ -1,0 +1,45 @@
+owner = ZUL
+controller = ZUL
+add_core = ZUL
+add_core = SAF
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 1227660
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 445220
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 264820
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1908040
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1248210
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 2116790
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 734960
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 950110
+	}
+}

@@ -1,0 +1,28 @@
+owner = HDJ
+controller = HDJ
+add_core = HDJ
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = fruit
+		max_employment = 1674160
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 969170
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 155820
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 12610
+	}
+}

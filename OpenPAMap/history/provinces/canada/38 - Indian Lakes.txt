@@ -1,0 +1,23 @@
+add_core = CAN
+add_core = MTC
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 1447550
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 134680
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 105490
+	}
+}

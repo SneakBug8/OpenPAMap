@@ -1,0 +1,61 @@
+owner = JOD
+controller = JOD
+add_core = JOD
+add_core = HND
+trade_goods = tea
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 3066950
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 42500
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 35290
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 574620
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2951130
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 185620
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 3014180
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 233080
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 1650
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 549870
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 366670
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1780
+	}
+}

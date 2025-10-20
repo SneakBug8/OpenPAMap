@@ -1,0 +1,53 @@
+owner = PAP
+controller = PAP
+add_core = PAP
+add_core = ITA
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 5930
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 32540
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 21870
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 170590
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 20920
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 58100
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 369680
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 9880
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 58600
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 10660
+	}
+}

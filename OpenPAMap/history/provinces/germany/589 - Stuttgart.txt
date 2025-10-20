@@ -1,0 +1,53 @@
+owner = WUR
+controller = WUR
+add_core = WUR
+add_core = GER
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 29700
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 14660
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 56130
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 88800
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 478410
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 143550
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 465620
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 8100
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 13920
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 10
+	}
+}

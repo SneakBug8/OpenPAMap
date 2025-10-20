@@ -1,0 +1,53 @@
+owner = WAL
+controller = WAL
+add_core = WAL
+add_core = ROM
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 17390
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 500520
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 144700
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 300520
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1224280
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 800740
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1236890
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 9860
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 1012210
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 5580
+	}
+}

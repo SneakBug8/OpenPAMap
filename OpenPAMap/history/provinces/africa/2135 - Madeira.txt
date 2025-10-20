@@ -1,0 +1,28 @@
+owner = POR
+controller = POR
+add_core = POR
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 1
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = fish
+		max_employment = 16530
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1130
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 280
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 24880
+	}
+}

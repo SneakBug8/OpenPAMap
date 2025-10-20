@@ -1,0 +1,48 @@
+owner = ENG
+controller = ENG
+add_core = SAF
+trade_goods = wool
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 1063160
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 85610
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 44160
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 559410
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 525060
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 934510
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 753440
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 83560
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 2940
+	}
+}

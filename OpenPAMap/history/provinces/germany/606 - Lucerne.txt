@@ -1,0 +1,48 @@
+owner = SWI
+controller = SWI
+add_core = SWI
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 39660
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 125420
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 152560
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 681440
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 118460
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 622070
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 18420
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 59340
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 1980
+	}
+}

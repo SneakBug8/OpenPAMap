@@ -1,0 +1,45 @@
+owner = BAD
+controller = BAD
+add_core = BAD
+add_core = GER
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 18000
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 178450
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 75430
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 297400
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 143200
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 291140
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 6450
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 86090
+	}
+}

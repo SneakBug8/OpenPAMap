@@ -1,0 +1,46 @@
+owner = PAN
+controller = PAN
+add_core = PAN
+add_core = KAS
+add_core = HND
+trade_goods = silk
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = silk
+		max_employment = 973670
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 196660
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 272400
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2485820
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1089310
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 3217860
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 46210
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 261970
+	}
+}

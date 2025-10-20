@@ -1,0 +1,61 @@
+owner = PRU
+controller = PRU
+add_core = PRU
+add_core = GER
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 33150
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 117170
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 26970
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 420920
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 308580
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 110580
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 416430
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 26740
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 5300
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 16020
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 250
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 1680
+	}
+}

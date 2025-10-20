@@ -1,0 +1,47 @@
+owner = ENG
+controller = ENG
+trade_goods = grain
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 1
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 124650
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 5100
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 329760
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 66930
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 110380
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 42620
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 78820
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 45830
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 103420
+	}
+}

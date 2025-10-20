@@ -1,0 +1,65 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = GRE
+trade_goods = silk
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 182970
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 187600
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 2690
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 110080
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 278440
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 197450
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 63440
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 419420
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 9930
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 16850
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 45740
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 9970
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 40
+	}
+}

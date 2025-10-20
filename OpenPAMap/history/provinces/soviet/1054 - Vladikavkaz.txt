@@ -1,0 +1,40 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 103680
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 68750
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 105980
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 390240
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 399260
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 18510
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 1220
+	}
+}

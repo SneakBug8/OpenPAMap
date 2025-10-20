@@ -1,0 +1,40 @@
+owner = PER
+controller = PER
+add_core = PER
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 974250
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 781250
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 330580
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 1563270
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 901370
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 1206410
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 110
+	}
+}

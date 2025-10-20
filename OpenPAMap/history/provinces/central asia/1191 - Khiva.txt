@@ -1,0 +1,28 @@
+owner = KHI
+controller = KHI
+add_core = KHI
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 1758240
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 155610
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 1595540
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 9260
+	}
+}

@@ -1,0 +1,56 @@
+owner = LUA
+controller = LUA
+add_core = LUA
+trade_goods = tropical_wood
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 598300
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 740770
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 210970
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1099730
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 335970
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 2093680
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 111120
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 19670
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 189200
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 1750
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 7460
+	}
+}

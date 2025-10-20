@@ -1,0 +1,57 @@
+owner = ENG
+controller = ENG
+add_core = CAN
+add_core = QUE
+trade_goods = grain
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 652790
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 795120
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 543980
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 5111870
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 3652890
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1847200
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 376290
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 70930
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 15310
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 50
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 30
+	}
+}

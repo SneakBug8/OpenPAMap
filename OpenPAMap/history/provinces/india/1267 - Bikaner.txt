@@ -1,0 +1,61 @@
+owner = BIK
+controller = BIK
+add_core = BIK
+add_core = HND
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = silk
+		max_employment = 48570
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 111620
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 256190
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 288740
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2446300
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 120650
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 2267200
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 113060
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 130920
+	}
+	entry = {
+		trade_good = cotton
+		max_employment = 106810
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 1000
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 820
+	}
+}

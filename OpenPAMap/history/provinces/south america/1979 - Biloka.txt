@@ -1,0 +1,43 @@
+owner = ENG
+controller = ENG
+trade_goods = tropical_wood
+colonial = 2
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 241590
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 392870
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 85500
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 103340
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1235250
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 417630
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 162440
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 70480
+	}
+}

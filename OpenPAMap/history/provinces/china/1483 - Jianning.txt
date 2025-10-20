@@ -1,0 +1,57 @@
+owner = GXI
+controller = GXI
+add_core = CHI
+add_core = GXI
+trade_goods = tea
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 512420
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 184480
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 304810
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 489980
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 1870
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 179760
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 455230
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1617670
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 2143750
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 32480
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 2300
+	}
+}

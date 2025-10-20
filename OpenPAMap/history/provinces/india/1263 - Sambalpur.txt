@@ -1,0 +1,53 @@
+owner = ORI
+controller = ORI
+add_core = ORI
+add_core = HND
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 697180
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 291770
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 83270
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 666600
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 932170
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 780200
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 957260
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 56240
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 1168500
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 60250
+	}
+}

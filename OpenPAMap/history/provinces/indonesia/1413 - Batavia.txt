@@ -1,0 +1,48 @@
+owner = NET
+controller = NET
+add_core = JAV
+trade_goods = coffee
+colonial = 2
+colony = 0
+life_rating = 30
+naval_base = 1
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 159600
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 69750
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 62740
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 235060
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 397460
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 457660
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 400530
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 304570
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 104860
+	}
+}

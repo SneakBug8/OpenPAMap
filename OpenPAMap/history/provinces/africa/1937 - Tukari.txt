@@ -1,0 +1,40 @@
+owner = SOK
+controller = SOK
+add_core = SOK
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 641040
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1259070
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1201060
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 308840
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 723430
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 74790
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 24920
+	}
+}

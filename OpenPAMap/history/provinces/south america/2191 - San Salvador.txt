@@ -1,0 +1,49 @@
+owner = UCA
+controller = UCA
+add_core = UCA
+add_core = ELS
+trade_goods = coffee
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 101790
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 7110
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 228160
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 430980
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 211890
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 497320
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 167770
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 111210
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 115960
+	}
+}

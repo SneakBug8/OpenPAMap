@@ -1,0 +1,53 @@
+owner = IND
+controller = IND
+add_core = IND
+add_core = HND
+trade_goods = cotton
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 3256170
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 402540
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 12060
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1825910
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 2828740
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 900280
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 60260
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 540130
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 39160
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 790
+	}
+}

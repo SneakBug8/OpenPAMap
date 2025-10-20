@@ -1,0 +1,49 @@
+owner = AWA
+controller = AWA
+add_core = AWA
+add_core = HND
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 74580
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 1053170
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 68750
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 188230
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2273210
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 369670
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 2364190
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 138460
+	}
+	entry = {
+		trade_good = cotton
+		max_employment = 7900
+	}
+}

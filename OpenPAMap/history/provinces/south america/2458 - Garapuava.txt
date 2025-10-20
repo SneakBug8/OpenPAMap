@@ -1,0 +1,52 @@
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+trade_goods = coffee
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 313390
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 1262280
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2541520
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 203540
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 682830
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 120790
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1946600
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 2362360
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 802530
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 30
+	}
+}

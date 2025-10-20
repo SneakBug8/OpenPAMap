@@ -1,0 +1,46 @@
+add_core = AST
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 20
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = coal
+		max_employment = 11049210
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 4801450
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 4870200
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 826650
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 661700
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 2194650
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 74930
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 32020
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 517220
+	}
+}

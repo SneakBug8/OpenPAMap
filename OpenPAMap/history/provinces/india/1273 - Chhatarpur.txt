@@ -1,0 +1,45 @@
+owner = BUN
+controller = BUN
+add_core = BUN
+add_core = HND
+trade_goods = dye
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 477020
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 147500
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 158180
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 15860
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 612540
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 120660
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1206570
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 253930
+	}
+}

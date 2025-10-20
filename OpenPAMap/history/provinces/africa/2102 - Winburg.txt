@@ -1,0 +1,53 @@
+owner = ORA
+controller = ORA
+add_core = ORA
+add_core = SAF
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 1482830
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 152750
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 511630
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 471070
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2865060
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 652440
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1811870
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 951550
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 11580
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 80
+	}
+}

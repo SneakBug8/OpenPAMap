@@ -1,0 +1,49 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = TUR
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 46370
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 118240
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 63600
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 67570
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 166520
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 18490
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 90330
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 6170
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 21330
+	}
+}

@@ -1,0 +1,33 @@
+owner = OMA
+controller = OMA
+add_core = OMA
+add_core = ZAN
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 82010
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 176700
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 130860
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 38400
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1530
+	}
+}

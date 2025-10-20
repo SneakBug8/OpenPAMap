@@ -1,0 +1,48 @@
+owner = AUS
+controller = AUS
+add_core = VEN
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 6300
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 54960
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 17310
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 113860
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 145590
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 43070
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 244800
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 5700
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 150470
+	}
+}

@@ -1,0 +1,52 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 35460
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 458510
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 130370
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 17390
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 636820
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 376990
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 524590
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 11520
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 135580
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 179530
+	}
+}

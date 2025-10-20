@@ -1,0 +1,59 @@
+owner = USA
+controller = USA
+add_core = USA
+add_core = NEN
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 1
+railroad = 1
+fort = 0
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 11480
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 75690
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 3820
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 29960
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 146030
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 433430
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 473200
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 333650
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 12840
+	}
+}

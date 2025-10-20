@@ -1,0 +1,37 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = AZB
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cattle
+		max_employment = 120530
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 2580
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 33930
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 19290
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 14720
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 680
+	}
+}

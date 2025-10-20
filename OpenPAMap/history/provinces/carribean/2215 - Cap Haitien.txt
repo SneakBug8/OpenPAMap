@@ -1,0 +1,44 @@
+owner = HAI
+controller = HAI
+add_core = HAI
+trade_goods = tobacco
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 99650
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 62610
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 33690
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 255270
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 358540
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 954510
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 20640
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 5300
+	}
+}

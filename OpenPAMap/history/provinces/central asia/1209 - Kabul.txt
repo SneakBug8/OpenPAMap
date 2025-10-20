@@ -1,0 +1,32 @@
+owner = AFG
+controller = AFG
+add_core = AFG
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 176740
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 88030
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1373330
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1447520
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 88070
+	}
+}

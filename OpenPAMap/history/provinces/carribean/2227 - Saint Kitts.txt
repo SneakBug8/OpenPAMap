@@ -1,0 +1,35 @@
+owner = ENG
+controller = ENG
+trade_goods = cotton
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = sulphur
+		max_employment = 6550
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 2180
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 9980
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 7210
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 16340
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 1280
+	}
+}

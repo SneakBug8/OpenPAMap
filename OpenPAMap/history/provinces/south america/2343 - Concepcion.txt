@@ -1,0 +1,28 @@
+owner = PRG
+controller = PRG
+add_core = PRG
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cattle
+		max_employment = 1677630
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 274560
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 20440
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 2120
+	}
+}

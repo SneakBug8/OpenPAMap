@@ -1,0 +1,64 @@
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = tobacco
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 1
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 2123040
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 330650
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 39510
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 270740
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 179650
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 754780
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1048010
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 241160
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 855710
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1058670
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 735860
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 75040
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 7890
+	}
+}

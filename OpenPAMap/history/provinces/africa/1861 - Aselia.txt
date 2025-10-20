@@ -1,0 +1,32 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cattle
+		max_employment = 1882920
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 10060
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 14290
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 8150
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 8130
+	}
+}

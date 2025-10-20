@@ -1,0 +1,53 @@
+owner = SAR
+controller = SAR
+add_core = SAR
+add_core = ITA
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 34
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 5610
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 1020
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 3900
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 7180
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 115610
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 99680
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 206960
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 7240
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 72460
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 90
+	}
+}

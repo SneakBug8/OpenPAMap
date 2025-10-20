@@ -1,0 +1,57 @@
+owner = BER
+controller = BER
+add_core = BER
+add_core = HND
+trade_goods = cotton
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 1555350
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 50670
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 126610
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 176040
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 960270
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 90740
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 799140
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 791990
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 61750
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 13250
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 2140
+	}
+}

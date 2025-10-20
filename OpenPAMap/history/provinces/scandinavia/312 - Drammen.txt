@@ -1,0 +1,54 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = SCA
+add_core = NOR
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 1
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 372230
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 22100
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1724040
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1212910
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 62770
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 8240
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 5120
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 187600
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 12920
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 150550
+	}
+}

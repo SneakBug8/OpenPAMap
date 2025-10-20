@@ -1,0 +1,57 @@
+owner = MYS
+controller = MYS
+add_core = MYS
+add_core = HND
+trade_goods = silk
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 158530
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 430950
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 274940
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 864120
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 270080
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 740380
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 335960
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 657600
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 49830
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 5010
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 45390
+	}
+}
