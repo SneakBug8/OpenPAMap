@@ -1,0 +1,53 @@
+owner = YNN
+controller = YNN
+add_core = CHI
+add_core = YNN
+trade_goods = tea
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = silk
+		max_employment = 459970
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 2431780
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 906880
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 449490
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1471740
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 53510
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 151350
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 214400
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 53440
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 43880
+	}
+}

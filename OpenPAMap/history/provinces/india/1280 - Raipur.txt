@@ -1,0 +1,57 @@
+owner = NAG
+controller = NAG
+add_core = NAG
+add_core = HND
+trade_goods = dye
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 1251950
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 317350
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 11210
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 1058290
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1020690
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 415820
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1325560
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 24730
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 53890
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 1010220
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 4870
+	}
+}

@@ -1,0 +1,51 @@
+owner = NET
+controller = NET
+trade_goods = timber
+colonial = 2
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 26340
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 5360
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 6840
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 66300
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 29500
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 168850
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 50480
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 86970
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 17110
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 120
+	}
+}

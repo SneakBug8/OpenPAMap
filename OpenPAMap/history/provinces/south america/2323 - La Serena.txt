@@ -1,0 +1,48 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 262420
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 191570
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 105440
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 374940
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 717900
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 262950
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 431420
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 908910
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 1220
+	}
+}

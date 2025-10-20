@@ -1,0 +1,45 @@
+trade_goods = tropical_wood
+colonial = 0
+colony = 0
+life_rating = 15
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 55880
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 24260
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 34760
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 90920
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 9090
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 140120
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 132360
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 59400
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 21240
+	}
+}

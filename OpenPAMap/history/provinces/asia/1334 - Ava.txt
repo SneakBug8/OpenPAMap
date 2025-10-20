@@ -1,0 +1,52 @@
+owner = BUR
+controller = BUR
+add_core = BUR
+trade_goods = tropical_wood
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 256720
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 151520
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 850630
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 311070
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 277240
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1143900
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 46030
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 73500
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 136570
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 30
+	}
+}

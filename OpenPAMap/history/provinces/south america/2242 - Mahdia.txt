@@ -1,0 +1,48 @@
+owner = ENG
+controller = ENG
+add_core = VNZ
+trade_goods = tropical_wood
+colonial = 2
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 1065440
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 1292110
+	}
+	entry = {
+		trade_good = rubber
+		max_employment = 156410
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 726720
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 544540
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 5331200
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1565440
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 900620
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 278400
+	}
+}

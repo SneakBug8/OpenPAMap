@@ -1,0 +1,53 @@
+owner = TIB
+controller = TIB
+add_core = TIB
+add_core = HND
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 700700
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1121980
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 81570
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 2568090
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 217260
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 266340
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 45950
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 157240
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 48410
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 157180
+	}
+}

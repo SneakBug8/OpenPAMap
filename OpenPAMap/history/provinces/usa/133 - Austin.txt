@@ -1,0 +1,54 @@
+owner = CSA
+controller = CSA
+add_core = TEX
+add_core = MEX
+add_core = CSA
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 209450
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 530570
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1336730
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1759040
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 3330760
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 216230
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 1774020
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 5650
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 705880
+	}
+	entry = {
+		trade_good = cotton
+		max_employment = 209360
+	}
+}

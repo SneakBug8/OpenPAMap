@@ -1,0 +1,61 @@
+owner = BAS
+controller = BAS
+add_core = BAS
+add_core = HND
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 1629920
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 343170
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 3020
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1053810
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 871130
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1054210
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 66870
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 63040
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 1610
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 20
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 15480
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 150490
+	}
+}

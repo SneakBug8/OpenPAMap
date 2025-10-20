@@ -1,0 +1,53 @@
+owner = ENG
+controller = ENG
+add_core = BHO
+add_core = HND
+trade_goods = dye
+colonial = 2
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 1976590
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 389630
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 1749530
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1315860
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 3188500
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 95320
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 31870
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 115270
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 5030
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 4250
+	}
+}

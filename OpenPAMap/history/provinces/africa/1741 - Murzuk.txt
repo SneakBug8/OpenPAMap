@@ -1,0 +1,28 @@
+owner = TRI
+controller = TRI
+add_core = TRI
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 25
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = fruit
+		max_employment = 947850
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 6540
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 2930
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 92520
+	}
+}

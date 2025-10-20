@@ -1,0 +1,32 @@
+owner = SPA
+controller = SPA
+add_core = PHI
+trade_goods = iron
+colonial = 2
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 383270
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 180740
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 3096410
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1784980
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1909360
+	}
+}

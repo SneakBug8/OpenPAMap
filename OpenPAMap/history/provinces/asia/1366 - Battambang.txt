@@ -1,0 +1,49 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+add_core = CAM
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 403530
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 666870
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 319490
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 819300
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 309260
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1035180
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 23800
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 35560
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 22210
+	}
+}

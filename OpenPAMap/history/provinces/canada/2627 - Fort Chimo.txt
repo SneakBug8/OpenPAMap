@@ -1,0 +1,25 @@
+owner = ENG
+controller = ENG
+add_core = CAN
+add_core = QUE
+trade_goods = timber
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 3026620
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 7395210
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1260
+	}
+}

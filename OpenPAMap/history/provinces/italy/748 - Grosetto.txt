@@ -1,0 +1,61 @@
+owner = TUS
+controller = TUS
+add_core = TUS
+add_core = ITA
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 3490
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 114850
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 132730
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 32160
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 26280
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 415390
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 87070
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 470740
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 17600
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 396680
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 155640
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 196570
+	}
+}

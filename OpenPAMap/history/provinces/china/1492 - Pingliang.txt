@@ -1,0 +1,45 @@
+owner = XBI
+controller = XBI
+add_core = CHI
+add_core = XBI
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = silk
+		max_employment = 863590
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 442810
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1119180
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 377500
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 32930
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 3640
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 117140
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 160
+	}
+}

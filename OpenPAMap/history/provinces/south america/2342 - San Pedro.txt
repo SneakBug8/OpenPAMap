@@ -1,0 +1,44 @@
+owner = PRG
+controller = PRG
+add_core = PRG
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 192530
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1925070
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 360390
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 18350
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 8320
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 10520
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 2470
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 4980
+	}
+}

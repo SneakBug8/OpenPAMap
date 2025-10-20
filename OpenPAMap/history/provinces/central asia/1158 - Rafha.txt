@@ -1,0 +1,24 @@
+owner = NEJ
+controller = NEJ
+add_core = NEJ
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 10
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = grain
+		max_employment = 1034850
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 223700
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1324920
+	}
+}

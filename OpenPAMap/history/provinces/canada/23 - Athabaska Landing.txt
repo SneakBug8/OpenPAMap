@@ -1,0 +1,30 @@
+add_core = CAN
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 1932970
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 204620
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 705060
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 57930
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 11930
+	}
+}

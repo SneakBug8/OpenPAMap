@@ -1,0 +1,61 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+add_core = GER
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 29010
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 133840
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 79790
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 32240
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 359000
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 41020
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 159710
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 455510
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 39100
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 7480
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 12240
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 66870
+	}
+}

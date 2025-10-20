@@ -1,0 +1,54 @@
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = PNM
+add_core = GCO
+trade_goods = coffee
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 57560
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 608280
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 65360
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 849880
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1294230
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 361590
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 47420
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 1850
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 740
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 10
+	}
+}

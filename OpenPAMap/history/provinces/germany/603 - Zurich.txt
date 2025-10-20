@@ -1,0 +1,49 @@
+owner = SWI
+controller = SWI
+add_core = SWI
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 1
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 41400
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 303520
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 164180
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 719660
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 179610
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 664800
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 18210
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 92720
+	}
+}

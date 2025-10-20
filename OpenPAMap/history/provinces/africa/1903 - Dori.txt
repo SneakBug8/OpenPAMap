@@ -1,0 +1,25 @@
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 15
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = coal
+		max_employment = 1178110
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2892420
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 288970
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 24170
+	}
+}

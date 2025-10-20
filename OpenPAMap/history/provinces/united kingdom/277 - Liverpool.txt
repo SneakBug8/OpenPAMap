@@ -1,0 +1,71 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = fish
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 2
+railroad = 1
+fort = 0
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = regular_clothes_factory
+	upgrade = yes
+}
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 18620
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 113400
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 259010
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 55540
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 317370
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 260020
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 50890
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 192660
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 7520
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 9450
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 51160
+	}
+}

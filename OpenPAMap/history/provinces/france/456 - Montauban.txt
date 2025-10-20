@@ -1,0 +1,64 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = tobacco
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 55690
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 173250
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 95510
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 61200
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 753690
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 90530
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 77780
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 782160
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 54330
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 41400
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 366210
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 67180
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 590
+	}
+}

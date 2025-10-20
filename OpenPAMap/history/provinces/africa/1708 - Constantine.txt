@@ -1,0 +1,60 @@
+owner = ALD
+controller = ALD
+add_core = ALD
+trade_goods = iron
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 173410
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 119240
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 388980
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 425800
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 139680
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 185290
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 929320
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 186950
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 303710
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1464450
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 48750
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 395470
+	}
+}

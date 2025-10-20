@@ -1,0 +1,43 @@
+owner = DEN
+controller = DEN
+trade_goods = tobacco
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = sulphur
+		max_employment = 4540
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 60
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 520
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 2320
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 10480
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 7880
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 13590
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 1310
+	}
+}

@@ -1,0 +1,48 @@
+owner = JOH
+controller = JOH
+add_core = JOH
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 201770
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 254010
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 675140
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 245950
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1589570
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1471020
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 819910
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 570590
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 43610
+	}
+}

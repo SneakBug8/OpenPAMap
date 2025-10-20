@@ -1,0 +1,65 @@
+owner = HES
+controller = HES
+add_core = HES
+add_core = GER
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 22350
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 73850
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 248600
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 56980
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 64660
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 1290
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 246870
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 3990
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 182380
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 354900
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 1250
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 7450
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 10440
+	}
+}

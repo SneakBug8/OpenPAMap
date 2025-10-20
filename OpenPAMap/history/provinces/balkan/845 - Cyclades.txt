@@ -1,0 +1,56 @@
+owner = GRE
+controller = GRE
+add_core = GRE
+trade_goods = fish
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 19580
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 16600
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 16160
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 8400
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 12860
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 78270
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 670
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 37440
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 6010
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 113260
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 410
+	}
+}

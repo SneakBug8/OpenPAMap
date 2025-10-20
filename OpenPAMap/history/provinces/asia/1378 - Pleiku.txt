@@ -1,0 +1,48 @@
+owner = DAI
+controller = DAI
+add_core = DAI
+trade_goods = tobacco
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 227850
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 85290
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 316580
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 492280
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 282330
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 740300
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 133160
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 827400
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 16550
+	}
+}

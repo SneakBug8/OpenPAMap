@@ -1,0 +1,57 @@
+owner = TRA
+controller = TRA
+add_core = HND
+add_core = TRA
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 97140
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 41670
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 230820
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 27640
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 364510
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 274140
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 364560
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 330370
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 442400
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 338750
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 199190
+	}
+}

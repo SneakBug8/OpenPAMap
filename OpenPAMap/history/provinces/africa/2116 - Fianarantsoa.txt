@@ -1,0 +1,40 @@
+owner = MAD
+controller = MAD
+add_core = MAD
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = coal
+		max_employment = 563230
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 899080
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 629320
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 2428060
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1454470
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 263910
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 2769400
+	}
+}

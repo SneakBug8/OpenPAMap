@@ -1,0 +1,81 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 45
+naval_base = 0
+railroad = 0
+fort = 1
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 11700
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 50910
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 42630
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 34260
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 18860
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 167640
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 93060
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 75090
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 158860
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 6400
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 5440
+	}
+}

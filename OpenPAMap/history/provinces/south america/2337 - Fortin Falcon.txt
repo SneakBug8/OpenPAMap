@@ -1,0 +1,41 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+add_core = PRG
+trade_goods = tropical_wood
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = iron
+		max_employment = 580
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 25360
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 3667770
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 82670
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1015770
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 138740
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 24380
+	}
+}

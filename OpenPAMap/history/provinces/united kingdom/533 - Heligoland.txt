@@ -1,0 +1,49 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = fish
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 130
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 180
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 10
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 2110
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1760
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 430
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1540
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 50
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 50
+	}
+}
+terrain = plains

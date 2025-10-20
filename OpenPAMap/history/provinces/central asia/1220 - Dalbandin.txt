@@ -1,0 +1,40 @@
+owner = KAL
+controller = KAL
+add_core = KAL
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = fruit
+		max_employment = 298550
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 394830
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 217080
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 60340
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 21230
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 192600
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 220
+	}
+}

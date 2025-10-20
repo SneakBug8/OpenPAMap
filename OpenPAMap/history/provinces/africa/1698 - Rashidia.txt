@@ -1,0 +1,48 @@
+owner = MOR
+controller = MOR
+add_core = MOR
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 18310
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 154640
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 166280
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 742400
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 385200
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 464950
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 127360
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 102650
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 12080
+	}
+}

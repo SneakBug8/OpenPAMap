@@ -1,0 +1,64 @@
+owner = POR
+controller = POR
+add_core = POR
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 33750
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 124520
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 142770
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 63060
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 57650
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 593090
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 76790
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 579390
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 38170
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 168130
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 2160
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 10400
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 410
+	}
+}

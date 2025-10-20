@@ -1,0 +1,46 @@
+add_core = COL
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 1821840
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 133220
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 1682960
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 1933950
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1133300
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 5236040
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 7797160
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 2422180
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 11980
+	}
+}

@@ -1,0 +1,45 @@
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 15
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 279940
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 260850
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1230300
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 50370
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 441870
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 53640
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 18830
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 133620
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 34260
+	}
+}

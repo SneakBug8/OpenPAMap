@@ -1,0 +1,48 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = tea
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 52470
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 344720
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 1087170
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 623100
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 4510
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 96800
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 745390
+	}
+	entry = {
+		trade_good = tea
+		max_employment = 560850
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 15650
+	}
+}

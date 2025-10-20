@@ -1,0 +1,56 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 66500
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 282820
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 275270
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 106720
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 76430
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 847500
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 322530
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1157870
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 57730
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 348100
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 2000
+	}
+}

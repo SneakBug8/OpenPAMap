@@ -1,0 +1,34 @@
+add_core = RUS
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 25
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 960430
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 1318360
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 12113840
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 9286180
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 3102160
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 473590
+	}
+}

@@ -1,0 +1,25 @@
+trade_goods = fish
+colonial = 0
+colony = 0
+life_rating = 10
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cattle
+		max_employment = 2004810
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 383790
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 717900
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 3470
+	}
+}

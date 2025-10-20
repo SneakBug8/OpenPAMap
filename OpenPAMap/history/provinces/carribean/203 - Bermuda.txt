@@ -1,0 +1,15 @@
+owner = ENG
+controller = ENG
+trade_goods = fish
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 1
+railroad = 0
+fort = 1
+rgo_distribution = {
+	entry = {
+		trade_good = grain
+		max_employment = 120
+	}
+}

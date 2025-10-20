@@ -1,0 +1,48 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = sulphur
+		max_employment = 29600
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 80690
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 404240
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 3058360
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 71540
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 2932570
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 146800
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 885960
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 68840
+	}
+}

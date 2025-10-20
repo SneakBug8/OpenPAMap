@@ -1,0 +1,52 @@
+owner = URU
+controller = URU
+add_core = URU
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 578990
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 123790
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 936790
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 102550
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 1633890
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1601630
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 32030
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 338000
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 559350
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 160
+	}
+}

@@ -1,0 +1,48 @@
+owner = SPA
+controller = SPA
+add_core = CUB
+trade_goods = tobacco
+colonial = 2
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 205770
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 125690
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 977500
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 515720
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 20
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 255760
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 61030
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 79820
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 13420
+	}
+}

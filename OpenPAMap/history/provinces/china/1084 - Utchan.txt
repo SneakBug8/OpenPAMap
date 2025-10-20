@@ -1,0 +1,29 @@
+owner = MCK
+controller = MCK
+add_core = CHI
+add_core = MCK
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = timber
+		max_employment = 868740
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 5340
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 200610
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 69930
+	}
+}

@@ -1,0 +1,57 @@
+owner = HAN
+controller = HAN
+add_core = HAN
+add_core = GER
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 23890
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 24290
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 61520
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 11900
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 355770
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 64950
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 175780
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 368540
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 8200
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 9840
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 800
+	}
+}

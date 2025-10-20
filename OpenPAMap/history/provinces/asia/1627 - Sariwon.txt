@@ -1,0 +1,56 @@
+owner = KOR
+controller = KOR
+add_core = KOR
+trade_goods = iron
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = silk
+		max_employment = 207380
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 32500
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 586970
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 72810
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 245640
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 254610
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 86860
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 63570
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 92310
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 210
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 220
+	}
+}

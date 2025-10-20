@@ -1,0 +1,42 @@
+add_core = LIB
+trade_goods = coffee
+colonial = 0
+colony = 0
+life_rating = 15
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = iron
+		max_employment = 771800
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 230630
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 478450
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 92070
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 686000
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 125590
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 562520
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 577940
+	}
+}

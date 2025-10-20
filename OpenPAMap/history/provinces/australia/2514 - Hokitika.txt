@@ -1,0 +1,38 @@
+add_core = NZL
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 797230
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 704200
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 598470
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 557770
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 1759890
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 840490
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1412690
+	}
+}

@@ -1,0 +1,54 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = BOH
+add_core = CZH
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 39790
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 56630
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 710820
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 278170
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 214910
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1009460
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 234100
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 773400
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 3870
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 389340
+	}
+}

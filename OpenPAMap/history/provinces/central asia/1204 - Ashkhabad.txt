@@ -1,0 +1,29 @@
+trade_goods = opium
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 1551140
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 432410
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 213560
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 286970
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 60030
+	}
+}

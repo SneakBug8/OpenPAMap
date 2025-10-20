@@ -1,0 +1,37 @@
+owner = MOL
+controller = MOL
+add_core = MOL
+add_core = ROM
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 509200
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 256540
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 1101680
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 937120
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1515910
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 136790
+	}
+}

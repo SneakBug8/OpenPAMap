@@ -1,0 +1,46 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = DES
+add_core = CAL
+trade_goods = grain
+colonial = 0
+colony = 0
+life_rating = 40
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 52450
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 29270
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 717420
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 823090
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 626360
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 686090
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 738820
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 78720
+	}
+}

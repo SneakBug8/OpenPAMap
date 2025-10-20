@@ -1,0 +1,13 @@
+trade_goods = wool
+colonial = 0
+colony = 0
+life_rating = 10
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cattle
+		max_employment = 27130
+	}
+}

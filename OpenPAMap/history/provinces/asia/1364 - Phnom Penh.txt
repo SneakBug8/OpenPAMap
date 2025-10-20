@@ -1,0 +1,52 @@
+owner = CAM
+controller = CAM
+add_core = CAM
+trade_goods = tropical_wood
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 449870
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 696070
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 370900
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 320140
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 67130
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 1191200
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 513640
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 12510
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 21880
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 6940
+	}
+}

@@ -1,0 +1,53 @@
+owner = SIC
+controller = SIC
+add_core = SIC
+add_core = ITA
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 70680
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 2300
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 4490
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 35570
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 284810
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 278550
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 186190
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 583120
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 24500
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 62730
+	}
+}

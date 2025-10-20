@@ -1,0 +1,53 @@
+owner = ENG
+controller = ENG
+add_core = MEW
+add_core = HND
+trade_goods = cotton
+colonial = 2
+colony = 0
+life_rating = 32
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 359520
+	}
+	entry = {
+		trade_good = dye
+		max_employment = 17250
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 4280
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 42300
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 271930
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 5070
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 420250
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 14720
+	}
+	entry = {
+		trade_good = silk
+		max_employment = 240
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 50
+	}
+}

@@ -1,0 +1,53 @@
+owner = VNZ
+controller = VNZ
+add_core = VNZ
+add_core = GCO
+trade_goods = fruit
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 110780
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 95160
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 3300
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 262520
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 507280
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 159050
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 167510
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 35020
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 6330
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 570
+	}
+}

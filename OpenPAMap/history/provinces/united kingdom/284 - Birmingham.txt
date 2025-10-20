@@ -1,0 +1,70 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = coal
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 20410
+	}
+	entry = {
+		trade_good = wool
+		max_employment = 119990
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 133980
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 243480
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 60120
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 21720
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 358260
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 72030
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 300460
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 270590
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 10240
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 10140
+	}
+}

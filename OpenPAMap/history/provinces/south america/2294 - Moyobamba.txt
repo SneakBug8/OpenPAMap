@@ -1,0 +1,64 @@
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = timber
+colonial = 0
+colony = 0
+life_rating = 30
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = cotton
+		max_employment = 292440
+	}
+	entry = {
+		trade_good = sulphur
+		max_employment = 133290
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 221240
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 126560
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 661970
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 54380
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 226250
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 2661680
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 766700
+	}
+	entry = {
+		trade_good = tobacco
+		max_employment = 162850
+	}
+	entry = {
+		trade_good = coffee
+		max_employment = 631470
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 551990
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 995180
+	}
+}

@@ -1,0 +1,44 @@
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = cattle
+colonial = 0
+colony = 2
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = wool
+		max_employment = 952010
+	}
+	entry = {
+		trade_good = coal
+		max_employment = 5661910
+	}
+	entry = {
+		trade_good = precious_metal
+		max_employment = 922730
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 662620
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 724150
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 2732780
+	}
+	entry = {
+		trade_good = iron
+		max_employment = 444460
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 55580
+	}
+}

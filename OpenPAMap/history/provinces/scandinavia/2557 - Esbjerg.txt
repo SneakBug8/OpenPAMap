@@ -1,0 +1,45 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = SCA
+trade_goods = cattle
+colonial = 0
+colony = 0
+life_rating = 35
+naval_base = 0
+railroad = 0
+fort = 0
+rgo_distribution = {
+	entry = {
+		trade_good = dye
+		max_employment = 37040
+	}
+	entry = {
+		trade_good = timber
+		max_employment = 68930
+	}
+	entry = {
+		trade_good = cattle
+		max_employment = 975070
+	}
+	entry = {
+		trade_good = fish
+		max_employment = 957310
+	}
+	entry = {
+		trade_good = fruit
+		max_employment = 81650
+	}
+	entry = {
+		trade_good = grain
+		max_employment = 726410
+	}
+	entry = {
+		trade_good = opium
+		max_employment = 14870
+	}
+	entry = {
+		trade_good = wine
+		max_employment = 19190
+	}
+}
